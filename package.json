@@ -1,9 +1,10 @@
 {
-  "name": "RecordingServer",
+  "name": "Recording-Server",
   "version": "1.0.0",
   "description": "Capture audio from mobile devices",
   "dependencies": {
     "express": "^4.13.4",
-    "socket.io": "^1.4.6"
+    "socket.io": "^1.4.6",
+    "wav": "^1.0.0"
   }
 }
